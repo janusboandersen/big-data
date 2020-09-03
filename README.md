@@ -9,4 +9,4 @@ Big-data related exercises and projects, for the course E5BDA.
 ## Running
 - Activate the environment with `. bda/bin/activate`
 - Start Jupyter notebooks using `jupyter notebook`
-- Navigate to the desired noebook
+- Navigate to the desired notebook
