@@ -1,0 +1,1 @@
+source ./bda/bin/activate
