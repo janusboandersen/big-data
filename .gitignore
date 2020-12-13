@@ -150,3 +150,7 @@ venv.bak/
 # Swap files
 .swp
 
+exam-assignment/knn.ipynb
+jakobs_lir/
+mnist_from_scratch/
+jessie_dataanalysis/
