@@ -1,5 +1,5 @@
 # Big Data :rocket:
-Machine Learning, big-data, and AI related exercises and projects.
+Machine Learning, big-data, and AI related experiments and projects.
 
 The larger project is a comparison of the performance of different models and algorithms to classify the MNIST dataset. See [notebook and report](https://github.com/janusboandersen/big-data/tree/master/mnist-project).
 
